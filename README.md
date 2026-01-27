@@ -129,7 +129,7 @@ Outputs:
 
 ### cGAN Losses
 
-![cGAN Loss Curves](cGAN_losses.png)
+![cGAN Loss Curves](cGAN%20losses.png)
 
 ---
 
@@ -198,3 +198,4 @@ This project is open for **academic and educational use**.
 ---
 
 ⭐ If you find this useful, feel free to star the repository!
+
